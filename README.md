@@ -33,4 +33,6 @@
  * command "git commit -m "tambahkan index.html"
 * lakukan push ke repo master punya kita 
  *command "git push origin git@github.com:wali91"
-* 
+* buat .gitignore untuk mengabaikan file yang tidak perlu untuk ditampilkan didalam git
+ * buat file .gitignore didalam folder git
+ * masukan file/folder apa saja yang akan di ignore 
